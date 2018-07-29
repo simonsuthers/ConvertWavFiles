@@ -1,4 +1,4 @@
-# ConvertWavFiles
+# Converting NIST sound files to WAV files using SOX
 
 Downlaod sox for windows from:
 http://sox.sourceforge.net/
