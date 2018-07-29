@@ -9,9 +9,9 @@ Add sox to registry path
 
 Run ConvertWavFiles.ps1 in powershell
 
-Powershell file has 3 routines, the last one is the important one.
+Powershell file has 3 routines, the last one is the important one for converting the TIMIT dataset.
 
-The three rutines do the following:
+The three routines do the following:
 1. Converts a specific file to a .wav file using sox
 2. Converts all files in a directory with a specific extension to .wav
 3. Converts all files in a directory and all child directories with a specific extension to .wav
